@@ -1,1 +1,5 @@
-# 42-ft_printf
+# ft_printf
+- Recoding printf.
+
+## Author
+- ***[ichejra](https://github.com/iTree-m)***
