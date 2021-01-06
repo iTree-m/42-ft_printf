@@ -8,6 +8,13 @@ width with all conversions.
 
 ## Usage
 
+```c
+/* go to ft_printf folder */
+
+make
+gcc main.c libftprintf.a
+./a.out
+```
 ## Sources
 - https://linux.die.net/man/3/printf
 - https://linux.die.net/man/3/stdarg
